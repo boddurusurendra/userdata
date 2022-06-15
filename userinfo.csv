@@ -1,0 +1,25 @@
+[
+{
+"userid" : 10,
+"username": "abc",
+"status" : "Active"
+},
+{
+"userid" : 20,
+"username": "abcd",
+"status" : "InActive"
+},
+{
+"userid" : 30,
+"username": "abcde",
+"status" : "Active"
+},
+{
+"userid" : 40,
+"username": "abcdef",
+"status" : "InActive"
+}
+]
+
+
+
