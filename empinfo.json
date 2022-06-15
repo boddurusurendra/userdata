@@ -1,0 +1,59 @@
+[{
+    "products": {
+        "product": {
+            "prodID": "1001",
+            "prodDesc": "Thinkpad",
+            "Brand": "Lenovo",
+            "price": "1700",
+            "offer": {
+                "offerValidDate": "07-13-2021",
+                "offerPrice": "1600"
+            },
+            "image": "image_pic01"
+        },
+        "product": {
+            "prodID": "1002",
+            "prodDesc": "Inspiron",
+            "Brand": "Dell",
+            "price": "2000",
+            "offer": {
+                "offerValidDate": "07-13-2020",
+                "offerPrice": "1600"
+            },
+            "image": "image_pic01"
+        },
+        "product": {
+            "prodID": "1004",
+            "prodDesc": "Macbook",
+            "Brand": "Apple",
+            "price": "2500",
+            "offer": {
+                "offerValidDate": "08-13-2021",
+                "offerPrice": "2000"
+            },
+            "image": "image_pic01"
+        },
+        "product": {
+            "prodID": "1005",
+            "prodDesc": "Vaio",
+            "Brand": "Sony",
+            "price": "1750",
+            "offer": {
+                "offerValidDate": "08-30-2021",
+                "offerPrice": "1500"
+            },
+            "image": "image_pic01"
+        },
+        "product": {
+            "prodID": "1006",
+            "prodDesc": "Ipad",
+            "Brand": "Apple",
+            "price": "1500",
+            "offer": {
+                "offerValidDate": "08-13-2021",
+                "offerPrice": "2000"
+            },
+            "image": "image_pic01"
+        }
+    }
+}]

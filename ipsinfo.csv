@@ -1,0 +1,35 @@
+host:localhost
+port:3306
+userId:root
+password:Jul@2012
+
+dev:
+host:127.98.104.31
+port:3306
+userId: devUser
+password: dev@123456
+
+test:
+host:127.98.104.31
+port:3306
+userId: devUser
+password: dev@123456
+
+acc:
+host:127.98.104.31
+port:3306
+userId: devUser
+password: dev@123456
+
+uat:
+host:127.98.104.31
+port:3306
+userId: devUser
+password: dev@123456
+
+prod:
+db:
+host:127.98.104.31
+port:3306
+userId: devUser
+password: dev@123456
